@@ -1,0 +1,8 @@
+BG - #F7F8F9
+Primary - #6C25FF
+Secondary - #E70B897B
+White - #FFFFFF
+Charcoal - #1D2226
+Grey - #CBCBCB
+Dark Grey - #919191
+Astrik - #DD4A3D
